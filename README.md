@@ -26,9 +26,7 @@
   <td> Gaetan Jonathan :grin: </td>
   <td> Manambintsoa :construction_worker: </td>
   <td> xavier emmanuel :grin: </td>
-  <td> Manambintsoa :no_mouth : </td>
-  <td> Manambintsoa :herb : </td>
-  <td> Manambintsoa :herb:
+
  </td>
  
 
