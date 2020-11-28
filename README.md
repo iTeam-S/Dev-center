@@ -24,7 +24,7 @@
  <tr>
 
   <td> Gaetan Jonathan :grin: </td>
-  <td> Manambintsoa :blush: </td>
+  <td> Manambintsoa :herb : </td>
  
 
  </tr>
