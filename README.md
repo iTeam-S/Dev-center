@@ -13,3 +13,17 @@
 - S'assurer de la responsivité des apllications
 - Rendre l'interface utilisateur dynamique avec l'aide de l'equipe Back-office
 
+
+
+<table>
+ <tr>
+    <td align="center"><a href="https://gaetan1903.github.com"><img src="https://avatars0.githubusercontent.com/u/43904633?s=460&v=4" width="150px;" height="150px;" alt="Gaetan Jonathan"/> </td>
+ 
+ </tr>
+ <tr>
+
+  <td> Gaetan Jonathan :grin: </td>
+ 
+
+ </tr>
+</table>
