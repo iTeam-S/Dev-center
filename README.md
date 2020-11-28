@@ -26,6 +26,8 @@
   <td> Gaetan Jonathan :grin: </td>
   <td> Manambintsoa :grin: </td>
   <td> xavier emmanuel :grin: </td>
+  <td> Manambintsoa :no_mouth : </td>
+ 
 
  </tr>
 </table>
