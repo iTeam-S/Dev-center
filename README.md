@@ -23,8 +23,7 @@
  </tr>
  <tr>
 
-  <td> Angela Ravololonirina:grin: </td>
- 
-
+  <td> Gaetan Jonathan:grin: </td>
+  <td> Angela Ravo :blush: </td>
  </tr>
 </table>
