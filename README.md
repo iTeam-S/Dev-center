@@ -65,6 +65,7 @@
  - Études des cas d'utilisation et les différentes fonctionnalités de l'application
  - Assure le développement et la maintenance du back-end de l'application 
  - Prend en charges la création et l'administration de la base de données
+ - Répondre aux besoins traitements des autres equipes.
 
 <table>
  <tr>
