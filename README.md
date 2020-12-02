@@ -32,7 +32,15 @@
 - S'assurer de la responsivité des apllications
 - Rendre l'interface utilisateur dynamique avec l'aide de l'equipe Back-office
 
-
+<table>
+ <tr>
+ <td align="center"><a href="https://joseeange04.github.com"><img src="https://avatars1.githubusercontent.com/u/72744818?s=400&u=fc996a0de289f19a312112aa69a61fe31c250d21&v=4" width="150px;" height="150px;" alt="Angela"/> </td>
+ </tr>
+ <tr>
+ <td> Angela Ravo :relaxed: </td>
+ </tr>
+ </table>
+ 
 
 ---------------------------------------------------------------------
 
