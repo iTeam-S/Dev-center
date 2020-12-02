@@ -70,9 +70,11 @@
 <table>
  <tr>
  <td align="center"><a href="https://github.com/c3k4ah"><img src="https://avatars1.githubusercontent.com/u/73609825" width="150px;" height="150px;" alt="DOMINICK"/> </td>
+  <td align="center"><a href="https://Darcia2125.github.com"><img src="https://avatars3.githubusercontent.com/u/64003085" width="150px;" height="150px;" alt="Darcia"/> </td>
  </tr>
  <tr>
  <td> DOMINICK :man_with_turban: </td>
+ <td> Darcia :grin: </td>
  </tr>
  </table>
 
