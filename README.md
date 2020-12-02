@@ -70,9 +70,11 @@
 <table>
  <tr>
  <td align="center"><a href="https://github.com/c3k4ah"><img src="https://avatars1.githubusercontent.com/u/73609825" width="150px;" height="150px;" alt="DOMINICK"/> </td>
+ <td align="center"><a href="https://github.com/Ntsoa2112"><img src="https://avatars2.githubusercontent.com/u/49555661" width="150px;" height="150px;" alt="Ntsoa"/> </td>
  </tr>
  <tr>
- <td> DOMINICK :man_with_turban: </td>
+ <td> Dominick :man_with_turban: </td>
+ <td> Ntsoa :man: </td>
  </tr>
  </table>
 
