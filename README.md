@@ -12,12 +12,14 @@
  <td align="center"><a href="https://xavier-001.github.com"><img src="https://avatars1.githubusercontent.com/u/74898540?s=400&u=fc996a0de289f19a312112aa69a61fe31c250d21&v=4" width="150px;" height="150px;" alt="xavier"/> </td>
  <td align="center"><a href="https://smith-jpg.github.com"><img src="https://avatars1.githubusercontent.com/u/75094160?s=400&u=6cca7c7c29bb459db3e7f351e05423752929fb71&v=4?s=460&v=4" width="150px;" height="150px;" alt="Abel Smith"/> </td>
  <td align="center"><a href="https://Charla19.github.com"><img src="https://avatars3.githubusercontent.com/u/74827706?s=400&u=6cca7c7c29bb459db3e7f351e05423752929fb71&v=4?s=460&v=4" width="150px;" height="150px;" alt="Charla Masy"/> </td>
+ <td align="center"> <a href="htpps://hasintso2071.github.com" ><img src="https://avatars0.githubusercontent.com/u/74848587?s=460&u=11b426472486f53fd9ae37759ae416301d25638f&v=4" width="150px;" height="150px;" alt="hasintso" /> </td>
  </tr>
  <tr>
  <td> Landry Daniel :sob: </td>
  <td> xavier emmanuel :grin: </td>
  <td> Abel Smith :grin: </td>
  <td> Charla Masy :blush: </td>
+ <td> hasintso :grin: </td>
  </tr>
  </table>
  
