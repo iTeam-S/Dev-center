@@ -36,7 +36,7 @@
 
 <table>
  <tr>
-  <td align="center"><a href="https://rootkit7628.github.com"><img src="https://avatars0.githubusercontent.com/u/60097202?s=400&u=1682b26d4f187660c8e9d2a9f36c5b755f54a30f&v=4" width="150px;" height="150px;" alt="Charla Masy"/><td>
+ <td align="center"><a href="https://rootkit7628.github.com"><img src="https://avatars0.githubusercontent.com/u/60097202?s=400&u=1682b26d4f187660c8e9d2a9f36c5b755f54a30f&v=4" width="150px;" height="150px;" alt="Arleme"/></td>
  <td align="center"><a href="https://joseeange04.github.com"><img src="https://avatars1.githubusercontent.com/u/72744818?s=400&u=fc996a0de289f19a312112aa69a61fe31c250d21&v=4" width="150px;" height="150px;" alt="Angela"/> </td>
  </tr>
  <tr>
