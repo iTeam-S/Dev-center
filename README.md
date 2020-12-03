@@ -61,10 +61,12 @@
  <tr>
  <td align="center"><a href="https://gaetan1903.github.com"><img src="https://avatars0.githubusercontent.com/u/43904633?s=460&v=4" width="150px;" height="150px;" alt="Gaetan Jonathan"/> </td>
  <td align="center"><a href="https://rivo2302.github.com"><img src="https://avatars2.githubusercontent.com/u/59861055?s=400&u=9517594496af95a3b20851bce00f83504d2b1ee4&v=4" width="150px;" height="150px;" alt="Rivo Lalaina"/> </td>
+ <td align="center"><a href="https://Jonquille20.github.com"><img src="https://avatars0.githubusercontent.com/u/74913797?s=460&v=4" width="150px;" height="150px;" alt="Jonquille Sonia"/> </
  </tr>
  <tr>
  <td> Gaetan Jonathan :grin: </td>
  <td> Rivo Lalaina :grin: </td>
+ <td> Jonquille Sonia :wink: </td>
  </tr>
  </table>
  
