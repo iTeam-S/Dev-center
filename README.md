@@ -32,7 +32,7 @@
 
 
 
-----------------------------------------------------------------
+---------------------------------------------------------------------
 
 
 
@@ -55,7 +55,25 @@
  <td> Rivo Lalaina :grin: </td>
  </tr>
  </table>
+ 
+ 
+ ---------------------------------------------------------------------
+ 
+ 
+ ## Equipe Back-Office:
+ - Faire la conception et la modélisation des données
+ - Études des cas d'utilisation et les différentes fonctionnalités de l'application
+ - Assure le développement et la maintenance du back-end de l'application 
+ - Prend en charges la création et l'administration de la base de données
 
+<table>
+ <tr>
+ <td align="center"><a href="https://github.com/c3k4ah"><img src="https://avatars1.githubusercontent.com/u/73609825" width="150px;" height="150px;" alt="DOMINICK"/> </td>
+ </tr>
+ <tr>
+ <td> DOMINICK :man_with_turban: </td>
+ </tr>
+ </table>
 
 
 
