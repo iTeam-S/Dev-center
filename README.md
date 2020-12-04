@@ -90,11 +90,13 @@
    <td align="center"><a href="https://github.com/c3k4ah"><img src="https://avatars1.githubusercontent.com/u/73609825" width="150px;" height="150px;" alt="DOMINICK"/> </td>
    <td align="center"><a href="https://github.com/Ntsoa2112"><img src="https://avatars2.githubusercontent.com/u/49555661" width="150px;" height="150px;" alt="Ntsoa"/> </td>
    <td align="center"><a href="https://github.com/Darcia2125"><img src="https://avatars3.githubusercontent.com/u/64003085" width="150px;" height="150px;" alt="Darcia"/> </td>
+    <td align="center"><a href="https://github.com/salema02"><img src="https://avatars3.githubusercontent.com/u/72653798" width="150px;" height="150px;" alt="Salema"/> </td>
  </tr>
  <tr>
    <td> Dominick :man_with_turban: </td>
    <td> Ntsoa :man: </td>
    <td> Darcia :grin: </td>
+   <td> Salema :smile: </td>
  </tr>
  </table>
 
