@@ -15,7 +15,7 @@
  <td align="center"> <a href="htpps://hasintso2071.github.com" ><img src="https://avatars0.githubusercontent.com/u/74848587?s=460&u=11b426472486f53fd9ae37759ae416301d25638f&v=4" width="150px;" height="150px;" alt="hasintso" /> </td>
  </tr>
  <tr>
- <td> Landry Daniel :sob: </td>
+ <td> Landris :sob: </td>
  <td> xavier emmanuel :grin: </td>
  <td> Abel Smith :grin: </td>
  <td> Charla Masy :blush: </td>
