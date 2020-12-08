@@ -72,13 +72,19 @@
  <td align="center"><a href="https://gaetan1903.github.com"><img src="https://avatars0.githubusercontent.com/u/43904633?s=460&v=4" width="150px;" height="150px;" alt="Gaetan Jonathan"/> </td>
  <td align="center"><a href="https://rivo2302.github.com"><img src="https://avatars2.githubusercontent.com/u/59861055?s=400&u=9517594496af95a3b20851bce00f83504d2b1ee4&v=4" width="150px;" height="150px;" alt="Rivo Lalaina"/> </td>
  <td align="center"><a href="https://Jonquille20.github.com"><img src="https://avatars0.githubusercontent.com/u/74913797?s=460&v=4" width="150px;" height="150px;" alt="Jonquille Sonia"/> </td>
-  <td align="center"><a href="https://rootkit7628.github.com"><img src="https://avatars0.githubusercontent.com/u/60097202?s=400&u=1682b26d4f187660c8e9d2a9f36c5b755f54a30f&v=4" width="150px;" height="150px;" alt="Arleme"/></td>
+ <td align="center"><a href="https://rootkit7628.github.com"><img src="https://avatars0.githubusercontent.com/u/60097202?s=400&u=1682b26d4f187660c8e9d2a9f36c5b755f54a30f&v=4" width="150px;" height="150px;" alt="Arleme"/></td>
  </tr>
  <tr>
  <td> Gaetan Jonathan :grin: </td>
  <td> Rivo Lalaina :grin: </td>
  <td> Jonquille Sonia :wink: </td>
  <td> Arleme :neckbeard: </td>
+<tr>
+  <td align="center"><a href="https://Fabienjulio.github.com"><img src="https://avatars3.githubusercontent.com/u/66438909?s=460&u=2152de0716c169c26dc1f1fe1b6db065aa561d12&v=4" width="150px;" height="150px;" alt="Fabien Julio"/> </td>
+</tr>
+</tr>
+<tr>
+ <td> Fabien Julio :grin: </td>
  </tr>
  </table>
  
