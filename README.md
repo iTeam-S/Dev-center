@@ -38,27 +38,6 @@
 
 
 
-## Equipe Mobile & Desktop
-- Développement des plateformes mobiles et desktop
-- Satisfaire les démandes de l'équipe UI et UX en terme de design
-- Permettre la portabilité des applications sur toutes les plateformes
-- S'assurer de la responsivité des apllications
-- Rendre l'interface utilisateur dynamique avec l'aide de l'equipe Back-office
-
-<table>
- <tr>
- <td align="center"><a href="https://joseeange04.github.com"><img src="https://avatars1.githubusercontent.com/u/72744818?s=400&u=fc996a0de289f19a312112aa69a61fe31c250d21&v=4" width="150px;" height="150px;" alt="Angela"/> </td>
- <td align="center"><a href="https://sarino22Y.github.com"><img src="https://avatars2.githubusercontent.com/u/74770148?s=460&u=fc996a0de289f19a312112aa69a61fe31c250d21&v=4" width="150px;" height="150px;" alt="Angela"/> </td>
- </tr>
- <tr>
- <td> Angela Ravo :relaxed: </td>
-<td> Sarino :grin: </td>
- </tr>
- </table>
- 
-
----------------------------------------------------------------------
-
 
 
 ## Equipe Qualité & Exploitation:
